@@ -1,0 +1,31 @@
+{
+  "name": "startpage",
+  "description": "Start Page project",
+  "version": "1.0.0",
+  "author": "Alexander Kireev",
+  "scripts": {
+    "dev": "webpack serve --mode=development",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.27.1",
+    "@babel/preset-react": "^7.27.1",
+    "@eslint/css": "^0.8.1",
+    "@eslint/js": "^9.27.0",
+    "@stylistic/eslint-plugin": "^4.2.0",
+    "babel-loader": "^10.0.0",
+    "css-loader": "^7.1.2",
+    "eslint": "^9.27.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.1.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-loader-spinner": "^6.1.6"
+  }
+}

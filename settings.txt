@@ -1,0 +1,84 @@
+- id: 1
+  title: 'Google'
+  image: './images/google.jpg'
+  url: 'http://www.google.ru'
+
+- id: 2
+  title: 'GMail'
+  image: './images/gmail.webp.jpg'
+  url: 'https://mail.google.com'
+
+- id: 3
+  title: 'Mail.ru'
+  image: './images/mailru.jpg'
+  url: 'http://mail.ru'
+
+- id: 4
+  title: 'Рамблер'
+  image: './images/rambler.jpg'
+  url: 'https://www.rambler.ru'
+
+- id: 5
+  title: 'YouTube'
+  image: './images/youtube.jpg'
+  url: 'http://www.youtube.com'
+
+- id: 6
+  title: 'Рутуб'
+  image: './images/rutube.jpg'
+  url: 'https://rutube.ru/'
+
+- id: 7
+  title: 'GitHab'
+  image: './images/githab.jpg'
+  url: 'https://github.com'
+
+- id: 8
+  title: 'Переводчик'
+  image: './images/googletranslator.jpg'
+  url: 'https://translate.google.com/?hl=ru&sl=en&tl=ru&op=translate'
+
+- id: 9
+  title: 'Google Карты'
+  image: './images/gmaps.jpg'
+  url: 'https://www.google.com/maps/place/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C/@55.7539333,37.6182201,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5a738fa419:0x7c347d506b52311f!8m2!3d55.7539303!4d37.620795!16zL20vMGhtXzc?hl=ru&entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D'
+
+- id: 10
+  title: '2ГИС'
+  image: './images/2gis.jpg'
+  url: 'https://2gis.ru/moscow/geo/4504286822141776/37.621458%2C55.753668?m=37.622222%2C55.751723%2F16.2'
+
+- id: 11
+  title: 'Госуслуги'
+  image: './images/gosuslugi.jpg'
+  url: 'https://www.gosuslugi.ru/'
+
+- id: 12
+  title: 'Налоговая ЛК'
+  image: './images/fns.jpg'
+  url: 'https://lkfl2.nalog.ru/lkfl/'
+
+- id: 13
+  title: 'Хекслет'
+  image: './images/hexlet.jpg'
+  url: 'https://ru.hexlet.io/'
+
+- id: 14
+  title: 'Local Host 8080'
+  image: './images/visual.jpg'
+  url: 'http://localhost:8080/'
+
+- id: 15
+  title: 'Wildberries'
+  image: './images/wb.jpg'
+  url: 'https://www.wildberries.ru/'
+
+- id: 16
+  title: 'Ozon'
+  image: './images/ozon.jpg'
+  url: 'https://www.ozon.ru/'
+
+- id: 17
+  title: 'RSS Новости'
+  image: './images/rss.jpg'
+  url: 'https://alexanderkireev.github.io/'
