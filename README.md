@@ -1,4 +1,4 @@
 # StartPage
 
-[![ScreenShot](./images/screenshot.jpg)]
+![ScreenShot](./images/screenshot.jpg)
 
